@@ -1,0 +1,3 @@
+Challenge Literalura con Alura y Oracle One Next Education.
+* En la carpeta "scriptDB" se encuentra el código para la creación de la base de datos que se implementa para el uso del programa.
+* Readme en proceso...
