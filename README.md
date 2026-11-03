@@ -221,8 +221,12 @@ En Windows:
 
 **Mario Sierra Neri**
 
-- GitHub: [@MarioSi3ri](https://github.com/MarioSi3ri)
-- Repositorio: [MarioSi3ri/Literalura](https://github.com/MarioSi3ri/Literalura)
+- GitHub: [MarioSi3ri](https://github.com/MarioSi3ri)
+- Repositorio: [Literalura](https://github.com/MarioSi3ri/Literalura)
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
