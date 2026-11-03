@@ -223,6 +223,7 @@ En Windows:
 
 - GitHub: [MarioSi3ri](https://github.com/MarioSi3ri)
 - Repositorio: [Literalura](https://github.com/MarioSi3ri/Literalura)
+- Copilot ayudó a mejorar el presente archivo README.
 
 ## 📄 Licencia
 
